@@ -42,9 +42,9 @@
 #define MQTT_ACTIVE
 
 /* MQTT-Server-Settings */ 
-#define MQTT_SERVER   "192.168.66.31"            // IP of MQTT-Server
+#define MQTT_SERVER   "192.168.31.31"            // IP of MQTT-Server
 #define MQTT_PORT     1883                       // Port of MQTT-Server  
-#define MQTT_NAME     "btscanner1"               // MQTT-Clientname
+#define MQTT_NAME     "espbtlescanner"           // MQTT-Clientname
 #define MQTT_USER     ""                         // MQTT-Username
 #define MQTT_PASS     ""                         // MQTT-Password
 #define MQTT_BUFSIZE  2048                       // MQTT-Buffersize (may be augmented, when Scan returns many BLE-Devices
