@@ -26,6 +26,9 @@
  *   Neil Kolban  
  *   version: 1.0.1 - released 2020-05-20  
  *   https://github.com/nkolban/ESP32_BLE_Arduino
+ *************************************************
+ * License: GNU GENERAL PUBLIC LICENSE 
+ *          Version 3, 29 June 2007
  *************************************************/ 
 
 // Includes 
